@@ -1,8 +1,8 @@
 <?php
 
-namespace craft\commerce\mollie;
+namespace craft\commerce\coinbase;
 
-use craft\commerce\mollie\gateways\Gateway;
+use craft\commerce\coinbase\gateways\Gateway;
 use craft\commerce\services\Gateways;
 use craft\events\RegisterComponentTypesEvent;
 use yii\base\Event;
